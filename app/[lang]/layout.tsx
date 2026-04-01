@@ -20,7 +20,7 @@ export async function generateMetadata({
   const { lang } = await params as { lang: Locale };
   const dict = getDict(lang);
 
-  const baseUrl = "https://dshospitality.eu";
+  const baseUrl = "https://excellencesquad.eu";
   const currentUrl = `${baseUrl}/${lang}`;
 
   return {
@@ -89,15 +89,15 @@ export default async function LangLayout({
     "@type": "Organization",
     name: "Excellence Squad",
     description: dict.seo.description,
-    url: `https://dshospitality.eu/${lang}`,
-    logo: "https://dshospitality.eu/Ds.png",
+    url: `https://excellencesquad.eu/${lang}`,
+    logo: "https://excellencesquad.eu/Ds.png",
     contactPoint: {
       "@type": "ContactPoint",
       telephone: "+32-479-63-36-40",
       contactType: "customer service",
       availableLanguage: ["French", "English", "Dutch"],
     },
-    sameAs: ["https://www.linkedin.com/company/ds-hospitality"],
+    sameAs: ["https://www.linkedin.com/company/excellence-squad"],
     serviceArea: {
       "@type": "Country",
       name: "Belgium",

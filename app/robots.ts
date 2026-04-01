@@ -14,7 +14,7 @@ export default function robots(): MetadataRoute.Robots {
         crawlDelay: 1,
       },
     ],
-    sitemap: "https://dshospitality.eu/sitemap.xml",
-    host: "https://dshospitality.eu",
+    sitemap: "https://excellencesquad.eu/sitemap.xml",
+    host: "https://excellencesquad.eu",
   };
 }

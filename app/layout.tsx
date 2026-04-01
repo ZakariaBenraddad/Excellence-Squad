@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     google: "8cdc9e9fd50c9359",
   },
   alternates: {
-    canonical: "https://dshospitality.eu",
+    canonical: "https://excellencesquad.eu",
     languages: {
       fr: "/fr",
       en: "/en",

@@ -20,7 +20,7 @@ export async function generateMetadata({
   const { lang } = await params as { lang: Locale };
   const dict = getDict(lang);
 
-  const baseUrl = "https://dshospitality.eu";
+  const baseUrl = "https://excellencesquad.eu";
   const routeBase = `${baseUrl}/excellence-squads`;
   const currentUrl = `${routeBase}/${lang}`;
 
@@ -75,7 +75,7 @@ export async function generateMetadata({
   };
 }
 
-export default async function DSHospitalityLangLayout({
+export default async function ExcellenceSquadLangLayout({
   children,
   params,
 }: {
@@ -90,15 +90,15 @@ export default async function DSHospitalityLangLayout({
     "@type": "Organization",
     name: "Excellence Squad",
     description: dict.seo.description,
-    url: `https://dshospitality.eu/excellence-squads/${lang}`,
-    logo: "https://dshospitality.eu/Ds.png",
+    url: `https://excellencesquad.eu/excellence-squads/${lang}`,
+    logo: "https://excellencesquad.eu/Ds.png",
     contactPoint: {
       "@type": "ContactPoint",
       telephone: "+32-479-63-36-40",
       contactType: "customer service",
       availableLanguage: ["French", "English", "Dutch"],
     },
-    sameAs: ["https://dshospitality.eu"],
+    sameAs: ["https://excellencesquad.eu"],
     serviceArea: {
       "@type": "Country",
       name: "Belgium",
