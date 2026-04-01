@@ -28,8 +28,8 @@ export async function generateMetadata({
     title: dict.seo.title,
     description: dict.seo.description,
     icons: {
-      icon: "/Ds.png",
-      apple: "/Ds.png",
+      icon: "/Ponit_Excellence_Squad.png",
+      apple: "/Ponit_Excellence_Squad.png",
     },
     keywords: "hospitality, hotels, Belgium, cleaning, maintenance",
     authors: [{ name: "Excellence Squad" }],

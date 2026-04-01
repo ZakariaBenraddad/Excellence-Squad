@@ -50,9 +50,9 @@ export const metadata: Metadata = {
     },
   },
   icons: {
-    icon: "/Ds.png",
-    shortcut: "/Ds.png",
-    apple: "/Ds.png",
+    icon: "/Ponit_Excellence_Squad.png",
+    shortcut: "/Ponit_Excellence_Squad.png",
+    apple: "/Ponit_Excellence_Squad.png",
   },
   manifest: "/manifest.json",
   verification: {
