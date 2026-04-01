@@ -1,0 +1,122 @@
+import type { Metadata, Viewport } from "next";
+import type { ReactNode } from "react";
+import { getDict, type Locale } from "@/lib/i18n";
+import HtmlLang from "@/components/html-lang";
+import { Analytics } from "@vercel/analytics/react";
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
+  themeColor: "#f97316",
+};
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ lang: string }>;
+}): Promise<Metadata> {
+  const { lang } = await params as { lang: Locale };
+  const dict = getDict(lang);
+
+  const baseUrl = "https://dshospitality.eu";
+  const routeBase = `${baseUrl}/excellence-squads`;
+  const currentUrl = `${routeBase}/${lang}`;
+
+  return {
+    title: dict.seo.title,
+    description: dict.seo.description,
+    icons: {
+      icon: "/Ds.png",
+      apple: "/Ds.png",
+    },
+    keywords: "hospitality, hotels, Belgium, cleaning, maintenance",
+    authors: [{ name: "Excellence Squad" }],
+    creator: "Excellence Squad",
+    publisher: "Excellence Squad",
+    alternates: {
+      canonical: currentUrl,
+      languages: {
+        fr: `${routeBase}/fr`,
+        en: `${routeBase}/en`,
+        nl: `${routeBase}/nl`,
+      },
+    },
+    openGraph: {
+      title: dict.seo.title,
+      description: dict.seo.description,
+      url: currentUrl,
+      siteName: "Excellence Squad",
+      images: [
+        {
+          url: `${baseUrl}/redGuy2.jpg`,
+          width: 1200,
+          height: 630,
+          alt: dict.seo.title,
+        },
+      ],
+      locale: lang === "fr" ? "fr_BE" : lang === "en" ? "en_US" : "nl_BE",
+      type: "website",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: dict.seo.title,
+      description: dict.seo.description,
+      images: [`${baseUrl}/redGuy2.jpg`],
+    },
+    robots: {
+      index: true,
+      follow: true,
+    },
+    verification: {
+      google: "o6WH6nzQTfqPCUCGAQhTb9qUfY8lh1ptHyFIE3mGR8o",
+    },
+  };
+}
+
+export default async function DSHospitalityLangLayout({
+  children,
+  params,
+}: {
+  children: ReactNode;
+  params: Promise<{ lang: string }>;
+}) {
+  const { lang } = await params;
+  const dict = getDict(lang as Locale);
+
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "Excellence Squad",
+    description: dict.seo.description,
+    url: `https://dshospitality.eu/excellence-squads/${lang}`,
+    logo: "https://dshospitality.eu/Ds.png",
+    contactPoint: {
+      "@type": "ContactPoint",
+      telephone: "+32-479-63-36-40",
+      contactType: "customer service",
+      availableLanguage: ["French", "English", "Dutch"],
+    },
+    sameAs: ["https://dshospitality.eu"],
+    serviceArea: {
+      "@type": "Country",
+      name: "Belgium",
+    },
+  };
+
+  return (
+    <>
+      <HtmlLang lang={lang} />
+      <script
+        type="application/ld+json"
+        suppressHydrationWarning
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(structuredData),
+        }}
+      />
+      {children}
+      <Analytics />
+    </>
+  );
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Excellence Squad",
+  "short_name": "Excellence Squad",
+  "description": "Excellence Squad aspire à être un partenaire privilégié pour les acteurs de l'industrie hôtelière",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/Ds.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Ds.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

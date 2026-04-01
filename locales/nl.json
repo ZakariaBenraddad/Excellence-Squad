@@ -1,0 +1,196 @@
+{
+  "seo": {
+    "title": "Excellence Squad - Bewezen Excellentie",
+    "description": "Excellence Squad wil een voorkeurspartner zijn voor actoren in de hotelindustrie. Door uit te blinken in ons vak, helpen we u uit te blinken in het uwe!"
+  },
+  "nav": {
+    "openMenu": "Menu openen",
+    "links": {
+      "about": "Hotelpartner",
+      "approach": "Uw gastervaring",
+      "services": "Diensten",
+      "uniqueness": "Wat ons uniek maakt",
+      "clients": "Onze ambassadeurs",
+      "contact": "Excellentie begint hier"
+    },
+    "copyright": "© {{year}} Excellence Squad"
+  },
+  "hero": {
+    "tags": [
+      "Hotelpersoneel",
+      "Hospitality Academy",
+      "Hotel-KPI's",
+      "Mystery Guest",
+      "ICT & Technologie",
+      "Eco-verantwoordelijk"
+    ],
+    "badge": "Bewezen Excellentie",
+    "headline": "En wat als de online reviews van uw gasten uw beste marketingcampagne werden?",
+    "cta": "Deze knop zou uw volgende Booking-beoordelingen kunnen maken",
+    "partnersLine": "Voorkeurspartner voor hotels & aparthotels in België & Luxemburg"
+  },
+  "refs": { "title": "Enkele referenties" },
+  "about": {
+    "title": "Uw vertrouwde hotelpartner voor het versterken van de beloften aan uw klanten",
+    "body": "Excellence Squad (business unit van DS Cleaning) wil uw voorkeurs-partner zijn in de hotelsector. Door te excelleren in onze dienstverlening, helpen wij u uitblinken in de uwe! Met een uitgebreid multi-services aanbod dat alle noodzakelijke ondersteunende hotelactiviteiten omvat, streven we ernaar te fungeren als betrouwbare partner voor langdurige gemoedsrust."
+  },
+  "services": {
+    "title": "Hotellerie: onze corebusiness",
+    "subtitle": "Van onderaanneming tot co-aanneming",
+    "cta": "Hier begint excellentie",
+    "categories": {
+      "housekeeping": {
+        "title": "Housekeeping",
+        "desc": "Chambre-dames/ -jongens, Executive housekeepers, Floor supervisors, Runners"
+      },
+      "maintenance": {
+        "title": "Building Maintenance",
+        "desc": "Reactief onderhoud, Preventief onderhoud, Handyman services"
+      },
+      "breakfast": {
+        "title": "Breakfast",
+        "desc": "Ontbijtservice en catering"
+      },
+      "frontoffice": {
+        "title": "Front Office",
+        "desc": "Receptie, nachtcontrole, bagageafhandeling, valet-service, enz."
+      },
+      "academy": {
+        "title": "Hospitality Academy",
+        "desc": "Dankzij onze diepgaande sectorkennis hebben we onze eigen opleiding ‘Hospitality Academy by DS’ opgezet"
+      }
+    }
+  },
+  "unique": {
+    "title": "Wat maakt ons uniek?",
+    "cards": [
+      {
+        "title": "Hotelpersoneel",
+        "desc": "Duidelijk onderscheid tussen chambre-dames en schoonmaakploeg, opgeleid via onze Hospitality Academy."
+      },
+      {
+        "title": "SLA’s & KPI’s",
+        "desc": "Specifieke serviceniveau-overeenkomsten met KPI’s gericht op hoteldiensten."
+      },
+      {
+        "title": "Mystery guest",
+        "desc": "Onafhankelijke audits 1–2 keer per jaar om kwaliteit te garanderen."
+      },
+      {
+        "title": "Klantbeoordelingen",
+        "desc": "Toegewijd aan het behouden en verbeteren van de netheidsscores op Booking.com."
+      },
+      {
+        "title": "Hospitality Academy",
+        "desc": "Onze eigen opleidingsinstelling, speciaal ontwikkeld voor hoteldiensten."
+      },
+      {
+        "title": "ICT-integratie",
+        "desc": "Door gebruik te maken van de RoomChecking-app, naadloos geïntegreerd met uw PMS, bieden we realtime zicht op kamerstatus, onmiddellijke respons en efficiënte taakverdeling."
+      },
+      {
+        "title": "Eco-verantwoorde aanpak",
+        "desc": "Deze innovatieve aanpak zorgt niet alleen voor vermindering van de ecologische voetafdruk van uw hotel, maar ondersteunt ook certificeringstrajecten zoals Green Key."
+      }
+    ]
+  },
+  "approach": {
+    "title": "Onze 'Hospitality'-aanpak",
+    "body": "Door te investeren in gastbeleving zullen uw gasten met plezier terugkomen én positieve reviews achterlaten — wat een onmiskenbaar positieve impact heeft op uw cijfers en imago. In hospitality draait alles om de beleving van de gast. Excellence Squad heeft deze visie omgezet in een aanpak die tegemoetkomt aan steeds hogere verwachtingen van uw klanten.",
+    "cta": "Excellentie begint hier"
+  },
+  "capital": {
+    "titleLeft": "Menselijk",
+    "titleCenter": "Kapitaal",
+    "titleRight": " Innovatie",
+    "body": "We specialiseren ons exclusief in hoteldiensten – geen kantoren of fabrieken, puur hospitality.",
+    "human": {
+      "title": "Menselijk kapitaal",
+      "bullets": [
+        "Exclusieve focus op hoteldiensten",
+        "Interne ‘Hospitality Academy by DS’",
+        "Opleidingen op maat voor uw hotel"
+      ]
+    },
+    "ict": {
+      "title": "ICT-innovatie",
+      "bullets": [
+        "Autonomie van het personeel",
+        "Vlotheid en productiviteit van de organisatie",
+        "Vermindering van verplaatsingen"
+      ],
+      "stats": [
+        {
+          "value": "+30%",
+          "label": "van de beslissingen genomen zonder tussenkomst van het management (via mobiele app en geautomatiseerde instructies)"
+        },
+        {
+          "value": "+40%",
+          "label": "tijdsbesparing bij de dagelijkse coördinatie (vermindering van frictie tussen huishouding, receptie en terreinmedewerkers)"
+        },
+        {
+          "value": "–25%",
+          "label": "van interne onnodige verplaatsingen (dankzij realtime meldingen en prioritering van interventies)"
+        }
+      ]
+    }
+  },
+  "sustain": {
+    "title": "Engagement",
+    "title2": "Duurzaamheid",
+    "body": "We passen eco-verantwoorde praktijken toe, trainen ons team in duurzaam schoonmaken, werken samen met bewuste leveranciers en ondersteunen de Green Key-certificering. Ons doel: hotelreiniging als motor voor milieuprestaties.",
+    "practices": {
+      "title": "Onze Praktijken",
+      "list": [
+        "Verantwoord gebruik van producten",
+        "Vermindering van verbruiksartikelen",
+        "Systematische afvalselectie"
+      ]
+    },
+    "greenkey": {
+      "title": "GreenKey",
+      "subtitle": "Onze inzet voor ecologische excellentie",
+      "benefits": [
+        "Minder plastic afval",
+        "Waterverbruik optimaliseren",
+        "Lokale leveranciers voorrang",
+        "Continue opleiding van het personeel"
+      ]
+    }
+  },
+  "clients": {
+    "title": "Klantverhalen",
+    "names": [
+      "Alexandre Szmaj",
+      "Pauline Petta",
+      "Christophe Therasse",
+      "SANDRINE LAGNIEN"
+    ],
+    "companies": [
+      "Smartflats",
+      "Domaine des Hautes Fagnes",
+      "Nehô Hotels",
+      "Catalonia Brussels"
+    ],
+    "quotes": [
+      "Excellence Squad stelde ons in staat te schalen met de discipline van een hotel, zonder de flexibiliteit van een aparthotel te verliezen. Een echte operationele partner.",
+      "Eindelijk een partner die de eisen van luxe hotellerie begrijpt. Onze gasten voelen het, ons team ademt het.",
+      "Deze dienstverlener zet gastbeleving centraal. Excellence Squad beheerst de hoteluitdagingen tot in de puntjes.",
+      "We zijn erg tevreden met het werk van gouvernante Najat en haar housekeeping-team. Ze werken met oog voor detail, professioneel en betrouwbaar."
+    ]
+  },
+  "contact": {
+    "cta": "LET'S DELIVER EXCELLENCE!",
+    "title": "Contacteer ons",
+    "website": "www.dshospitality.eu",
+    "email": "excellence@dshospitality.eu",
+    "phone": "+32 479 63 36 40"
+  },
+  "images": {
+    "heroAlt": "Excellence Squad-team levert excellentie in een luxehotel",
+    "maidAlt": "Kamermeisje aan het werk",
+    "tabletAlt": "Hospitalitypersoneel met tablet",
+    "practicesAlt": "Duurzame praktijken in hospitality",
+    "greenkeyAlt": "GreenKey-certificering"
+  }
+}

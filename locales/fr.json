@@ -1,0 +1,198 @@
+{
+  "seo": {
+    "title": "Excellence Squad - Excellence éprouvée",
+    "description": "Excellence Squad aspire à être un partenaire privilégié pour les acteurs de l'industrie hôtelière. En excellant dans notre profession, nous vous soutenons pour exceller dans la vôtre !"
+  },
+  "nav": {
+    "openMenu": "Ouvrir le menu",
+    "links": {
+      "about": "Partenaire hôtelier",
+      "approach": "Votre expérience client",
+      "services": "Services",
+      "uniqueness": "Une offre unique",
+      "clients": "Nos ambassadeurs",
+      "contact": "L'excellence commence ici"
+    },
+    "copyright": "© {{year}} Excellence Squad"
+  },
+  "hero": {
+    "tags": [
+      "Personnel hôtelier",
+      "Hospitality Academy",
+      "KPI'S hôteliers",
+      "Mystery Guest",
+      "ICT & Technologie",
+      "Eco-responsable"
+    ],
+    "badge": "Proven Excellence",
+    "headline": "Et si les avis en ligne de vos clients devenaient votre meilleure campagne marketing ?",
+    "cta": "Ce bouton pourrait changer vos prochains avis Booking",
+    "partnersLine": "Partenaire privilégié des hôtels & aparthotels en Belgique & Luxembourg"
+  },
+  "refs": {
+    "title": "Quelques références"
+  },
+  "about": {
+    "title": "Un partenaire hôtelier pour renforcer votre promesse client",
+    "body": "Excellence Squad (Business unit de DS Cleaning) aspire à être un partenaire privilégié pour les acteurs de l'industrie hôtelière. En excellant dans notre profession, nous vous soutenons pour exceller dans la vôtre ! À travers une gamme de services multiservices complète couvrant toutes les activités de support nécessaires au fonctionnement principal de l'hôtel, nous visons à nous positionner comme des garants d'une collaboration constructive qui favorise une tranquillité d'esprit durable pour nos clients."
+  },
+  "services": {
+    "title": "Hôtellerie: Notre cœur de métier",
+    "subtitle": "De la Sous-traitance à la Co-traitance",
+    "cta": "L’excellence commence ici",
+    "categories": {
+      "housekeeping": {
+        "title": "Housekeeping",
+        "desc": "Femmes/Valets de chambres, Executive housekeepers, Floor Supervisors, Runners"
+      },
+      "maintenance": {
+        "title": "Maintenance",
+        "desc": "Maintenance curative, Maintenance préventive, Handyman"
+      },
+      "breakfast": {
+        "title": "Breakfast",
+        "desc": "Service de petit-déjeuner et restauration"
+      },
+      "frontoffice": {
+        "title": "Front Office",
+        "desc": "Réception, Night Audit, bagagistes, voituriers, etc"
+      },
+      "academy": {
+        "title": "Hospitality Academy",
+        "desc": " Forts de notre connaissance du secteur, nous avons créé notre propre académie de formation « Hospitality Academy by DS»"
+      }
+    }
+  },
+  "unique": {
+    "title": "Ce qui nous rend unique !",
+    "cards": [
+      {
+        "title": "Personnel hôtelier",
+        "desc": "Distinction claire entre Femme de chambre et Femme de ménage, formées via notre Hospitality Academy."
+      },
+      {
+        "title": "SLA & KPI",
+        "desc": "Accords de niveau de service avec KPIs spécifiques à l'hôtellerie."
+      },
+      {
+        "title": "Client mystère",
+        "desc": "Audits indépendants 1-2 fois par an pour garantir la qualité."
+      },
+      {
+        "title": "Avis clients",
+        "desc": "Engagement à maintenir/améliorer les scores de propreté sur Booking.com."
+      },
+      {
+        "title": "Hospitality Academy",
+        "desc": "Forts de notre connaissance du secteur, nous avons créé notre propre académie de formation « Hospitality Academy by DS»"
+      },
+      {
+        "title": "Intégration ICT",
+        "desc": "Intégration de la technologie : En tirant parti de l'application Roomchecking, intégrée de manière transparente avec le PMS, offre une visibilité en temps réel sur le statut des chambres, permettant une réponse immédiate aux besoins des clients et une allocation efficace des tâches."
+      },
+      {
+        "title": "Approche Eco-Responsable",
+        "desc": "Cette approche innovante garantit non seulement une réduction de l'empreinte environnementale de l'hôtel, mais peut également à aller jusqu'à l'accompagnement dans l'obtention de certifications telles \"Green Key\"."
+      }
+    ]
+  },
+  "approach": {
+    "title": "Notre approche « Hospitality »",
+    "body": "Grâce à leur expérience dans votre hôtel, vos clients reviendront avec plaisir et, surtout, partageront des retours positifs sur divers sites de réservation et plateformes d'avis de voyageurs, ce qui aura sans aucun doute un impact positif sur les chiffres de votre établissement et son image. En tant qu'hôteliers, nos clients recherchent un partenaire qui comprend que dans le secteur de l'hospitalité, tout tourne autour de l'hospitalité. À cet égard, Excellence Squad a développé une approche axée sur l'hospitalité, conçue pour répondre aux attentes de plus en plus exigeantes de vos clients.",
+    "cta": "L’excellence commence ici"
+  },
+  "capital": {
+    "titleLeft": "Capital",
+    "titleCenter": "Humain",
+    "titleRight": "Innovation",
+    "body": "Excellence Squad se spécialise dans l’industrie hôtelière. Nous ne nettoyons pas les bureaux ni les usines : nous sommes un fournisseur de services hôteliers.",
+    "human": {
+      "title": "Capital Humain",
+      "bullets": [
+        "Spécialisation exclusive dans l'hôtellerie",
+        "\"Hospitality Academy by Excellence Squad\" interne",
+        "Formation sur mesure pour votre établissement"
+      ]
+    },
+    "ict": {
+      "title": "Innovation ICT",
+      "bullets": [
+        "Autonomie du personnel",
+        "Fluidité et productivité des organisations",
+        "Réduction des déplacements"
+      ],
+      "stats": [
+        {
+          "value": "+30%",
+          "label": "de décisions prises sans intervention managériale (via app mobile et consignes automatisées)"
+        },
+        {
+          "value": "+40%",
+          "label": "de gain de temps sur la coordination quotidienne (réduction des frictions entre gouvernante, réception et terrain)"
+        },
+        {
+          "value": "–25%",
+          "label": "de trajets internes inutiles (grâce aux alertes en temps réel et priorisation des interventions)"
+        }
+      ]
+    }
+  },
+  "sustain": {
+    "title": "Engagement",
+    "title2": "Durabilité",
+    "body": "Nous adoptons des pratiques éco-responsables, formons nos équipes au nettoyage durable, collaborons avec des fournisseurs engagés et soutenons la certification Green Key. Notre objectif : faire du nettoyage hôtelier un levier de performance environnementale.",
+    "practices": {
+      "title": "Nos Pratiques",
+      "list": [
+        "Utilisation raisonnée des produits",
+        "Réduction des consommables",
+        "Tri systématique des déchets"
+      ]
+    },
+    "greenkey": {
+      "title": "GreenKey",
+      "subtitle": "Notre engagement envers l'excellence environnementale",
+      "benefits": [
+        "Réduction des déchets plastiques",
+        "Optimisation de la consommation d'eau",
+        "Fournisseurs locaux privilégiés",
+        "Formation continue du personnel"
+      ]
+    }
+  },
+  "clients": {
+    "title": "Témoignages Clients",
+    "names": [
+      "Alexandre Szmaj",
+      "Pauline Petta",
+      "Christophe Therasse",
+      "SANDRINE LAGNIEN"
+    ],
+    "companies": [
+      "Smartflats",
+      "Domaine des Hautes Fagnes",
+      "Nehô Hotels",
+      "Catalonia Brussels"
+    ],
+    "quotes": [
+      "Excellence Squad nous a permis de scaler avec la rigueur d'un hôtel, tout en gardant la souplesse d'un appart-hôtel. C'est un vrai partenaire opérationnel.",
+      "Avec Excellence Squad, nous avons enfin trouvé un partenaire qui comprend les exigences de l'hôtellerie haut de gamme. Nos clients le ressentent, et nos équipes respirent.",
+      "Ce prestataire place l'expérience-client au centre de ses préoccupations. Excellence Squad a une parfaite maîtrise des enjeux hôteliers.",
+      "Nous sommes ravis du travail fourni par la gouvernante Najat et son personnel housekeeping. L'équipe a le souci du détail, professionnelle et fiable."
+    ]
+  },
+  "contact": {
+    "cta": "LET'S DELIVER EXCELLENCE!",
+    "title": "Contactez-nous",
+    "website": "www.dshospitality.eu",
+    "email": "excellence@dshospitality.eu",
+    "phone": "+32 479 63 36 40"
+  },
+  "images": {
+    "heroAlt": "Équipe Excellence Squad assurant un service d'excellence dans un hôtel de luxe",
+    "maidAlt": "Femme de chambre en action",
+    "tabletAlt": "Personnel d'hôtellerie avec une tablette",
+    "practicesAlt": "Pratiques durables en hôtellerie",
+    "greenkeyAlt": "Certification GreenKey"
+  }
+}
