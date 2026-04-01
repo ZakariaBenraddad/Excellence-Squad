@@ -14,7 +14,7 @@ export default function robots(): MetadataRoute.Robots {
         crawlDelay: 1,
       },
     ],
-    sitemap: "https://pointsquad.eu/sitemap.xml",
-    host: "https://pointsquad.eu",
+    sitemap: "https://pointquad.eu/sitemap.xml",
+    host: "https://pointquad.eu",
   };
 }

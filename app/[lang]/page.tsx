@@ -52,7 +52,7 @@ export default function LocalizedLanding() {
   const params = useParams();
   const lang = ((params?.lang as string) || "fr") as Locale;
   const dict = useMemo(() => getDict(lang), [lang]);
-  const approachWebsite = "https://pointsquad.eu";
+  const approachWebsite = "https://pointquad.eu";
 
   const [isScrolled, setIsScrolled] = useState(false);
 
