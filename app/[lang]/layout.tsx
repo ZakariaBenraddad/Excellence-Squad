@@ -20,7 +20,7 @@ export async function generateMetadata({
   const { lang } = await params as { lang: Locale };
   const dict = getDict(lang);
 
-  const baseUrl = "https://pointquad.eu";
+  const baseUrl = "https://pointquad.fr";
   const currentUrl = `${baseUrl}/${lang}`;
 
   return {
@@ -89,8 +89,8 @@ export default async function LangLayout({
     "@type": "Organization",
     name: "Point Squad",
     description: dict.seo.description,
-    url: `https://pointquad.eu/${lang}`,
-    logo: "https://pointquad.eu/Ds.png",
+    url: `https://pointquad.fr/${lang}`,
+    logo: "https://pointquad.fr/Ds.png",
     contactPoint: {
       "@type": "ContactPoint",
       telephone: "+32-479-63-36-40",

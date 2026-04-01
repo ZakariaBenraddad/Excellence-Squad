@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     google: "8cdc9e9fd50c9359",
   },
   alternates: {
-    canonical: "https://pointquad.eu",
+    canonical: "https://pointquad.fr",
     languages: {
       fr: "/fr",
       en: "/en",
