@@ -85,17 +85,20 @@ export default function LocalizedLanding() {
         }`}
       >
         <div className="max-w-7xl mx-auto px-3 sm:px-4 lg:px-6 xl:px-8">
-          <div className="flex items-center justify-between h-16">
-            <div className="flex items-center flex-shrink-0">
-              <Image
-                src="/Point_Excellence_Logo.jpeg"
-                alt="Excellence Squad"
-                width={120}
-                height={40}
-                className="h-10 w-auto object-contain brightness-125"
-                priority
-              />
-            </div>
+          <div className="flex items-center justify-between h-20">
+            <a href="#home" className="flex items-center flex-shrink-0 group">
+              <div className="relative">
+                <div className="absolute -inset-2 bg-orange-500/20 rounded-2xl blur-lg opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                <Image
+                  src="/Ponit_Excellence_Squad.png"
+                  alt="Excellence Squad"
+                  width={220}
+                  height={60}
+                  className="relative h-14 sm:h-16 lg:h-[4.5rem] w-auto object-contain drop-shadow-[0_0_12px_rgba(249,115,22,0.3)] group-hover:drop-shadow-[0_0_20px_rgba(249,115,22,0.5)] transition-all duration-300"
+                  priority
+                />
+              </div>
+            </a>
             <div className="flex items-center gap-2">
               <LangToggle
                 initial={lang as Lang}
@@ -115,14 +118,14 @@ export default function LocalizedLanding() {
                   side="right"
                   className="bg-black text-white border-gray-800"
                 >
-                  <SheetHeader>
-                    <SheetTitle className="font-heading text-xl">
+                  <SheetHeader className="pb-2 border-b border-gray-800/50">
+                    <SheetTitle>
                       <Image
-                        src="/Point_Excellence_Logo.jpeg"
+                        src="/Ponit_Excellence_Squad.png"
                         alt="Excellence Squad"
-                        width={100}
-                        height={34}
-                        className="h-8 w-auto object-contain brightness-125"
+                        width={180}
+                        height={50}
+                        className="h-14 w-auto object-contain drop-shadow-[0_0_12px_rgba(249,115,22,0.3)]"
                       />
                     </SheetTitle>
                   </SheetHeader>
