@@ -91,7 +91,7 @@ export default function LocalizedLanding() {
                 <div className="absolute -inset-2 bg-orange-500/20 rounded-2xl blur-lg opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                 <Image
                   src="/Ponit_Excellence_Squad.png"
-                  alt="Excellence Squad"
+                  alt="Point Squad"
                   width={220}
                   height={60}
                   className="relative h-14 sm:h-16 lg:h-[4.5rem] w-auto object-contain drop-shadow-[0_0_12px_rgba(249,115,22,0.3)] group-hover:drop-shadow-[0_0_20px_rgba(249,115,22,0.5)] transition-all duration-300"
@@ -122,7 +122,7 @@ export default function LocalizedLanding() {
                     <SheetTitle>
                       <Image
                         src="/Ponit_Excellence_Squad.png"
-                        alt="Excellence Squad"
+                        alt="Point Squad"
                         width={180}
                         height={50}
                         className="h-14 w-auto object-contain drop-shadow-[0_0_12px_rgba(249,115,22,0.3)]"

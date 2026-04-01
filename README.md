@@ -1,6 +1,6 @@
-# Excellence Squad
+# Point Squad
 
-Landing page for Excellence Squad — a hospitality services company based in Belgium specializing in housekeeping, maintenance, breakfast service, front office, and staff training for hotels.
+Landing page for Point Squad — a hospitality services company based in Belgium specializing in housekeeping, maintenance, breakfast service, front office, and staff training for hotels.
 
 Built with **Next.js 15**, **Tailwind CSS 4**, and **Radix UI**. Supports three languages (FR / EN / NL) via file-based i18n with JSON dictionaries.
 

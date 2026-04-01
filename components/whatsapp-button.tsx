@@ -50,7 +50,7 @@ export default function WhatsAppButton({
       <div className="flex flex-col leading-tight">
         <span className="text-sm font-semibold">{name}</span>
         <span className="text-xs text-gray-600 max-w-[14rem] truncate">
-          Excellence Squad
+          Point Squad
         </span>
       </div>
 

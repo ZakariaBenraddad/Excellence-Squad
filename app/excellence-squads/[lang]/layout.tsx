@@ -32,9 +32,9 @@ export async function generateMetadata({
       apple: "/Ponit_Excellence_Squad.png",
     },
     keywords: "hospitality, hotels, Belgium, cleaning, maintenance",
-    authors: [{ name: "Excellence Squad" }],
-    creator: "Excellence Squad",
-    publisher: "Excellence Squad",
+    authors: [{ name: "Point Squad" }],
+    creator: "Point Squad",
+    publisher: "Point Squad",
     alternates: {
       canonical: currentUrl,
       languages: {
@@ -47,7 +47,7 @@ export async function generateMetadata({
       title: dict.seo.title,
       description: dict.seo.description,
       url: currentUrl,
-      siteName: "Excellence Squad",
+      siteName: "Point Squad",
       images: [
         {
           url: `${baseUrl}/redGuy2.jpg`,
@@ -88,7 +88,7 @@ export default async function ExcellenceSquadLangLayout({
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: "Excellence Squad",
+    name: "Point Squad",
     description: dict.seo.description,
     url: `https://excellencesquad.eu/excellence-squads/${lang}`,
     logo: "https://excellencesquad.eu/Ds.png",

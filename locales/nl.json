@@ -1,7 +1,7 @@
 {
   "seo": {
-    "title": "Excellence Squad - Bewezen Excellentie",
-    "description": "Excellence Squad wil een voorkeurspartner zijn voor actoren in de hotelindustrie. Door uit te blinken in ons vak, helpen we u uit te blinken in het uwe!"
+    "title": "Point Squad - Bewezen Excellentie",
+    "description": "Point Squad wil een voorkeurspartner zijn voor actoren in de hotelindustrie. Door uit te blinken in ons vak, helpen we u uit te blinken in het uwe!"
   },
   "nav": {
     "openMenu": "Menu openen",
@@ -13,7 +13,7 @@
       "clients": "Onze ambassadeurs",
       "contact": "Excellentie begint hier"
     },
-    "copyright": "© {{year}} Excellence Squad"
+    "copyright": "© {{year}} Point Squad"
   },
   "hero": {
     "tags": [
@@ -32,7 +32,7 @@
   "refs": { "title": "Enkele referenties" },
   "about": {
     "title": "Uw vertrouwde hotelpartner voor het versterken van de beloften aan uw klanten",
-    "body": "Excellence Squad (business unit van Excellence Squad Group) wil uw voorkeurs-partner zijn in de hotelsector. Door te excelleren in onze dienstverlening, helpen wij u uitblinken in de uwe! Met een uitgebreid multi-services aanbod dat alle noodzakelijke ondersteunende hotelactiviteiten omvat, streven we ernaar te fungeren als betrouwbare partner voor langdurige gemoedsrust."
+    "body": "Point Squad (business unit van Point Squad Group) wil uw voorkeurs-partner zijn in de hotelsector. Door te excelleren in onze dienstverlening, helpen wij u uitblinken in de uwe! Met een uitgebreid multi-services aanbod dat alle noodzakelijke ondersteunende hotelactiviteiten omvat, streven we ernaar te fungeren als betrouwbare partner voor langdurige gemoedsrust."
   },
   "services": {
     "title": "Hotellerie: onze corebusiness",
@@ -96,7 +96,7 @@
   },
   "approach": {
     "title": "Onze 'Hospitality'-aanpak",
-    "body": "Door te investeren in gastbeleving zullen uw gasten met plezier terugkomen én positieve reviews achterlaten — wat een onmiskenbaar positieve impact heeft op uw cijfers en imago. In hospitality draait alles om de beleving van de gast. Excellence Squad heeft deze visie omgezet in een aanpak die tegemoetkomt aan steeds hogere verwachtingen van uw klanten.",
+    "body": "Door te investeren in gastbeleving zullen uw gasten met plezier terugkomen én positieve reviews achterlaten — wat een onmiskenbaar positieve impact heeft op uw cijfers en imago. In hospitality draait alles om de beleving van de gast. Point Squad heeft deze visie omgezet in een aanpak die tegemoetkomt aan steeds hogere verwachtingen van uw klanten.",
     "cta": "Excellentie begint hier"
   },
   "capital": {
@@ -173,9 +173,9 @@
       "Catalonia Brussels"
     ],
     "quotes": [
-      "Excellence Squad stelde ons in staat te schalen met de discipline van een hotel, zonder de flexibiliteit van een aparthotel te verliezen. Een echte operationele partner.",
+      "Point Squad stelde ons in staat te schalen met de discipline van een hotel, zonder de flexibiliteit van een aparthotel te verliezen. Een echte operationele partner.",
       "Eindelijk een partner die de eisen van luxe hotellerie begrijpt. Onze gasten voelen het, ons team ademt het.",
-      "Deze dienstverlener zet gastbeleving centraal. Excellence Squad beheerst de hoteluitdagingen tot in de puntjes.",
+      "Deze dienstverlener zet gastbeleving centraal. Point Squad beheerst de hoteluitdagingen tot in de puntjes.",
       "We zijn erg tevreden met het werk van gouvernante Najat en haar housekeeping-team. Ze werken met oog voor detail, professioneel en betrouwbaar."
     ]
   },
@@ -187,7 +187,7 @@
     "phone": "+32 479 63 36 40"
   },
   "images": {
-    "heroAlt": "Excellence Squad-team levert excellentie in een luxehotel",
+    "heroAlt": "Point Squad-team levert excellentie in een luxehotel",
     "maidAlt": "Kamermeisje aan het werk",
     "tabletAlt": "Hospitalitypersoneel met tablet",
     "practicesAlt": "Duurzame praktijken in hospitality",

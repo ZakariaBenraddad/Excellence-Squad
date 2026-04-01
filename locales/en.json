@@ -1,7 +1,7 @@
 {
   "seo": {
-    "title": "Excellence Squad - Proven Excellence",
-    "description": "Excellence Squad aims to be a preferred partner for hotel industry players. By excelling in our profession, we help you excel in yours!"
+    "title": "Point Squad - Proven Excellence",
+    "description": "Point Squad aims to be a preferred partner for hotel industry players. By excelling in our profession, we help you excel in yours!"
   },
   "nav": {
     "openMenu": "Open menu",
@@ -13,7 +13,7 @@
       "clients": "Our ambassadors",
       "contact": "Excellence starts here"
     },
-    "copyright": "© {{year}} Excellence Squad"
+    "copyright": "© {{year}} Point Squad"
   },
   "hero": {
     "tags": [
@@ -32,7 +32,7 @@
   "refs": { "title": "Selected references" },
   "about": {
     "title": "A hotel partner to strengthen your guest promise",
-    "body": "Excellence Squad (a business unit of Excellence Squad Group) aspires to be a preferred partner for the hotel industry. By excelling in our profession, we support you in excelling in yours! Through a comprehensive multi-service offering covering all support activities necessary for the core operation of the hotel, we aim to position ourselves as guarantors of a constructive collaboration that fosters lasting peace of mind for our clients."
+    "body": "Point Squad (a business unit of Point Squad Group) aspires to be a preferred partner for the hotel industry. By excelling in our profession, we support you in excelling in yours! Through a comprehensive multi-service offering covering all support activities necessary for the core operation of the hotel, we aim to position ourselves as guarantors of a constructive collaboration that fosters lasting peace of mind for our clients."
   },
   "services": {
     "title": "Hospitality: Our core business",
@@ -96,19 +96,19 @@
   },
   "approach": {
     "title": "Our ‘Hospitality’ approach",
-    "body": "Thanks to their experience in your hotel, your guests will be eager to return and share positive feedback on booking sites and review platforms, positively impacting your hotel's performance and image. As hoteliers, our clients look for a partner who understands that in hospitality, everything is about hospitality. Excellence Squad has developed a hospitality-driven approach designed to meet your guests' ever-rising expectations.",
+    "body": "Thanks to their experience in your hotel, your guests will be eager to return and share positive feedback on booking sites and review platforms, positively impacting your hotel's performance and image. As hoteliers, our clients look for a partner who understands that in hospitality, everything is about hospitality. Point Squad has developed a hospitality-driven approach designed to meet your guests' ever-rising expectations.",
     "cta": "Excellence starts here"
   },
   "capital": {
     "titleLeft": "Human",
     "titleCenter": "Capital",
     "titleRight": "Innovation",
-    "body": "Excellence Squad specializes in the hotel industry. We don't clean offices or factories: we are a hotel services provider.",
+    "body": "Point Squad specializes in the hotel industry. We don't clean offices or factories: we are a hotel services provider.",
     "human": {
       "title": "Human Capital",
       "bullets": [
         "Exclusive specialization in hospitality",
-        "In-house ‘Hospitality Academy by Excellence Squad’",
+        "In-house ‘Hospitality Academy by Point Squad’",
         "Tailor-made training for your property"
       ]
     },
@@ -164,9 +164,9 @@
       "Catalonia Brussels"
     ],
     "quotes": [
-      "Excellence Squad enabled us to scale with hotel-level rigor while keeping aparthotel flexibility. A true operational partner.",
-      "With Excellence Squad, we finally found a partner who understands the demands of upscale hospitality. Our guests feel it, and our teams breathe.",
-      "This provider puts the guest experience at the center. Excellence Squad has a perfect grasp of hotel challenges.",
+      "Point Squad enabled us to scale with hotel-level rigor while keeping aparthotel flexibility. A true operational partner.",
+      "With Point Squad, we finally found a partner who understands the demands of upscale hospitality. Our guests feel it, and our teams breathe.",
+      "This provider puts the guest experience at the center. Point Squad has a perfect grasp of hotel challenges.",
       "We're delighted with the work by housekeeper Najat and her housekeeping staff. The team is detail-oriented, professional, and reliable."
     ]
   },
@@ -178,7 +178,7 @@
     "phone": "+32 479 63 36 40"
   },
   "images": {
-    "heroAlt": "Excellence Squad team delivering excellence in a luxury hotel",
+    "heroAlt": "Point Squad team delivering excellence in a luxury hotel",
     "maidAlt": "Housekeeper at work",
     "tabletAlt": "Hospitality staff with tablet",
     "practicesAlt": "Sustainable practices in hospitality",

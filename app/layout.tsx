@@ -23,9 +23,9 @@ const openSans = Open_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Excellence Squad - Excellence éprouvée",
+  title: "Point Squad - Excellence éprouvée",
   description:
-    "Excellence Squad aspire à être un partenaire privilégié pour les acteurs de l'industrie hôtelière. En excellant dans notre profession, nous vous soutenons pour exceller dans la vôtre !",
+    "Point Squad aspire à être un partenaire privilégié pour les acteurs de l'industrie hôtelière. En excellant dans notre profession, nous vous soutenons pour exceller dans la vôtre !",
   generator: "Next.js",
   keywords: [
     "hospitality",
@@ -35,9 +35,9 @@ export const metadata: Metadata = {
     "Belgium",
     "hôtellerie",
   ],
-  authors: [{ name: "Excellence Squad" }],
-  creator: "Excellence Squad",
-  publisher: "Excellence Squad",
+  authors: [{ name: "Point Squad" }],
+  creator: "Point Squad",
+  publisher: "Point Squad",
   robots: {
     index: true,
     follow: true,
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "fr_BE",
     alternateLocale: ["en_US", "nl_BE"],
-    siteName: "Excellence Squad",
+    siteName: "Point Squad",
   },
 };
 
